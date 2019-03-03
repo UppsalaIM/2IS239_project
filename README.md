@@ -2,7 +2,7 @@
 
 This repository contains the assignment notebook for the 2IS239 Data Analytics course.
 
-Once you have installed all of the prerequisites (installation instructions below), launch Jupyter and run the assignment notebook found in `Data Analytics Assignment.ipynb`. Once you have completed the tasks contained in the notebook, submit your assignment to Studium.
+Once you have installed all of the prerequisites (installation instructions below), launch Jupyter and run the assignment notebook found in `Data Analytics Assignment.ipynb`. Once you have completed the tasks contained in the notebook, submit your assignment notebook (`Data Analytics Assignment.ipynb`) to Studium.
 
 ## Installation
 
